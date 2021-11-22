@@ -30,5 +30,8 @@
     "find-config": "^1.0.0",
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
+  },
+  "engines": {
+    "node": "v14.17.4"
   }
 }
