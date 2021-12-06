@@ -20,6 +20,7 @@ const sess = {
     db: sequelize,
   }),
 };
+//working  on heroku
 
 app.use(session(sess));
 
